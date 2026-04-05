@@ -1,0 +1,5 @@
+{
+  "name": "NEXUS-TWIN: Afet Risk İstihbarat Dijital İkizi",
+  "description": "Çok şehirli, kaskat arıza modelli ve Monte Carlo tabanlı afet risk analiz platformu.",
+  "requestFramePermissions": ["geolocation"]
+}
